@@ -191,6 +191,14 @@ h1 span {
     color: #0088cc;
 }
 
+.facebook:hover {
+    border-color: #0000ff; 
+}
+
+.facebook:hover i {
+    color: #0000ff; 
+}
+
 footer {
     color: #666;
     font-size: 0.8rem;
